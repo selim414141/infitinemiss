@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x57d3E635D6544576F821133f42D56cdc14eB808e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x57d3e635d6544576f821133f42d56cdc14eb808e",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "InfiniteMiss",
+  "SYMBOL": "InfiniteMiss",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/infinitemiss55",
+  "SHOW_BACKGROUND": true
+}
